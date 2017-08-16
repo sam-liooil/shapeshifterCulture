@@ -1,4 +1,4 @@
-![Shapeshifter Culture](http://shapeshifterCulture/media/images/Any_42.jpg "Shapeshifter Culture")
+![Shapeshifter Culture](http://raw.githubusercontent.com/sam-liooil/shapeshifterCulture/media/images/Any_42.jpg "Shapeshifter Culture")
 
 # Shapeshifter Culture
 
