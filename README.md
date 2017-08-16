@@ -1,4 +1,4 @@
-![Shapeshifter Culture](/Desktop/ShapeshifterCulture/media/images/Any_42.jpg "Shapeshifter Culture")
+![Shapeshifter Culture](Desktop/ShapeshifterCulture/media/images/Any_42.jpg "Shapeshifter Culture")
 
 # Author:
 [S.A.M](https://liooil.space/CV/CV.html "SAM")
