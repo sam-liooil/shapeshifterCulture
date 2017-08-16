@@ -1,5 +1,5 @@
 # Author:
-S.A.M
+[S.A.M](liooil.space/CV/CV.html "SAM")
 
 # Abstract:
 
@@ -8,3 +8,9 @@ Shapeshifter Culture describes a society that emerges from a space in which all 
 # Slides:
 
 https://www.slideshare.net/StephanieMendoza6
+
+# Social VR Applications:
+* [Anyland](http://anyland.com/ "Anyland")
+* [VR Chat](https://vrchat.net/ "VR Chat")
+* [High Fidelity](http://highfidelity.com/ "High Fidelity")
+* [Sansar](https://www.sansar.com/ "Sansar")
