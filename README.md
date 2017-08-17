@@ -1,4 +1,4 @@
-![Shapeshifter Culture](https://gogglehead.space/img/screenshots/Any_42.jpg "Shapeshifter Culture")
+![Shapeshifter Culture](https://gogglehead.space/img/Any_042.jpg "Shapeshifter Culture")
 
 # Shapeshifter Culture
 
