@@ -18,3 +18,7 @@ https://www.slideshare.net/StephanieMendoza6
 * [VR Chat](https://vrchat.net/ "VR Chat")
 * [High Fidelity](http://highfidelity.com/ "High Fidelity")
 * [Sansar](https://www.sansar.com/ "Sansar")
+* [WebVR](https://aframe.io/ "WebVR")
+
+## Books:
+* [Shaping Things - Bruce Sterling](https://mitpress.mit.edu/books/shaping-things "Shaping Things")
